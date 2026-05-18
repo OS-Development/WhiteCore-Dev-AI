@@ -14,7 +14,7 @@ Linux 64 Bit (Mono 6) [![Build Status](https://travis-ci.org/WhiteCoreSim/WhiteC
 
 *NOTES:*
 
-*- As of July 20228 Whitecore is now compiled with .Net 4.8 (Mono / MSBuild) Please remember this if you are getting compilation errors.*
+*- As of July 2022 Whitecore is now compiled with .Net 4.8 (Mono / MSBuild) Please remember this if you are getting compilation errors.*
 
 *- As of January 2017, the LibOMV libraries are included as a submodule of the WhiteCore repo. When cloning, ensure that the submodules are included.*
 
